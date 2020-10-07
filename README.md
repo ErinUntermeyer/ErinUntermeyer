@@ -3,7 +3,7 @@ Erin Untermeyer
 
 <p align="center">
 🥳&emsp;she/her&emsp;📍 Denver, Colorado <br/>
-📬&emsp;[LinkedIn](www.linkedin.com/in/erin-untermeyer) <br/>
+📬&emsp;<a href="www.linkedin.com/in/erin-untermeyer"/>LinkedIn</a><br/>
 
 **Education** <br/>
 💻&emsp;Turing School of Software & Design, Front-end Engineering, 2020 <br/>
