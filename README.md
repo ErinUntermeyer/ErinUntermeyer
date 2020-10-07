@@ -1,5 +1,5 @@
 <p align="center">
-Erin Untermeyer
+<font size="5">Erin Untermeyer</font>
 
 <p align="center">
 🥳&emsp;she/her&emsp;📍 Denver, Colorado <br/>
