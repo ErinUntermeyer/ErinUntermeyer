@@ -1,4 +1,6 @@
-🥳&emsp;she/her&emsp;📍&emsp;Denver, Colorado&emsp;📬&emsp;[LinkedIn](www.linkedin.com/in/erin-untermeyer)<br/>
+<p align="center">
+🥳&emsp;she/her&emsp;📍 Denver, Colorado <br/>
+📬&emsp;<a href="https://www.linkedin.com/in/erin-untermeyer"/>LinkedIn</a><br/>
 
 **Education** <br/>
 💻&emsp;Turing School of Software & Design, Front-end Engineering, 2020 <br/>
